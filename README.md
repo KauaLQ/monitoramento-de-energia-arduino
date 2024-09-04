@@ -14,7 +14,7 @@ Para a medição de corrente elétrica, foi utilizado o sensor ACS712 que funcio
 ---
 
 ### _Apresentação dos dados:_
-O Arduino realiza todo o processamento dos dados, aplicando cálculos de proporcionalidade, e exibe os resultados em um display LCD 16x2. Essa abordagem foi desenvolvida para garantir que o sistema seja simples e fácil de usar, mesmo para consumidores finais.
+O Arduino realiza todo o processamento dos dados, aplicando cálculos de proporcionalidade, e exibe os resultados em um display LCD 16x2. Essa abordagem foi desenvolvida para garantir que o sistema seja simples e fácil de usar, mesmo para consumidores finais. Você pode acesssar todo o código do projeto na pasta [firmware](https://github.com/KauaLQ/monitoramento-de-energia-arduino/blob/main/firmware/ACS712_Com_Trafo_Para_medir_tensao.ino).
 
 ---
 
