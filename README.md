@@ -1,4 +1,6 @@
-# monitoramento-de-energia-arduino
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00979C&height=120&section=header"/>
+
+# monitoramento-de-energia-arduino <img width='70' heigth='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
 #### Olá, leitor. Neste repositório, você encontrará o firmware do meu protótipo de um sistema de monitoramento de energia de baixo custo, desenvolvido em um projeto de pesquisa em parceria com o _IFCE campus Pecém_. Este sistema, controlado por uma placa _Arduino_, utiliza um transformador e um diodo retificador de meia-onda para analisar a tensão, além de um _módulo ACS712_ para medir a corrente elétrica. As leituras são exibidas em um _display LCD_, permitindo ao usuário monitorar o consumo elétrico de cada aparelho.
 #### A seguir eu escrevi um resumo básico de cada parte do sistema;
 ### _Leitura de tensão:_
